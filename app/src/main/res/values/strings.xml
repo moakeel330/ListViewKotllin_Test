@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+
+    <string name="firstaidPurpose">
+        To provide first aid awareness and basic life support
+    </string>
+    <string name="firstaidDesc">• Wounds and bleeding
+\n• Burns and fractures
+\n• Emergency scene management
+\n• Cardio-Pulmonary Resuscitation (CPR)
+\n• Respiratory distress e.g., Choking, blocked airway
+    </string>
+
+    <string name="sewingPurpose">
+        To provide alterations and new garment tailoring services
+    </string>
+    <string name="sewingDesc">
+        • Types of stitches
+\n• Threading a sewing machine
+\n• Sewing buttons, zips, hems and seams
+\n• Alterations
+\n• Designing and sewing new garments
+    </string>
+
+    <string name="landscapingPurpose">
+        To provide landscaping services for new and established gardens
+    </string>
+    <string name="landscapingDesc">
+        • Indigenous and exotic plants and trees
+\n• Fixed structures (fountains, statues, benches, tables, built-in braai)
+\n• Balancing of plant and trees in a garden
+\n• Aesthetics of plant shapes and colours
+\n• Garden layout
+    </string>
+
+    <string name="lifeskillsPurpose">
+        To provide skills to navigate basic life necessities
+    </string>
+    <string name="lifeskillsDesc">
+        • Opening a bank account
+\n• Basic labour law (know your rights)
+\n• Basic reading and writing literacy
+\n• Basic numeric literacy
+    </string>
+
+    <string name="childmindingPurpose">
+        To provide basic child and baby care
+    </string>
+    <string name="childmindingDesc">
+        • birth to six-month old baby needs
+\n• seven-month to one year old needs
+\n• Toddler needs
+\n• Educational toys
+    </string>
+
+    <string name="cookingPurpose">
+        To prepare and cook nutritious family meals
+    </string>
+    <string name="cookingDesc">
+        • Nutritional requirements for a healthy body
+\n• Types of protein, carbohydrates and vegetables
+\n• Planning meals
+\n• Preparation and cooking of meals</string>
+
+    <string name="gardenPurpose">
+        To provide basic knowledge of watering, pruning and planting in a domestic
+garden.
+    </string>
+    <string name="gardenDesc">
+        • Water restrictions and the watering requirements of indigenous and exotic plants
+\n• Pruning and propagation of plants
+\n• Planting techniques for different plant types
+    </string>
+</resources>
